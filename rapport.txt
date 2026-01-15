@@ -1,0 +1,11 @@
+1. Qu’as-tu appris pendant ce TP ?
+Ce TP m'a permis de voir une utilisation concrète de Git. 
+Il m'a aussi appris à gérer mon travail sur un repo.
+
+2. Quelle commande Git as-tu trouvé la plus utile et pourquoi ?
+La commande Git que j'ai trouvé la plus intéressante est le Git reset parce qu'elle permet de revenir à un ancien commit,
+sans pour autant annuler ou supprimer les fichiers.
+
+3. Quelle partie t’a posé le plus de difficulté ?
+Le revert m'a posé le plus de difficulté car il y a eu un prblème entre le commit deux et trois 
+car comme j'avais ajouté le chapitre 3, il fallait supprimé le 2 sans toucher aux trois.

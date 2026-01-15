@@ -8,3 +8,9 @@ git show : Permet de voir le contenu détaillé d'un commit spécifique, donc da
 git diff : Permet de comparer les différences entre deux commits du projet.
            Dans notre cas cela a permis de voir la différence entre le commit du premier chapitre et le commit du dernier chapitre.
 
+git reset HEAD~1 : Permet de revenir au commit précédent sans effacer les fichiers.
+
+git revert : Permet d'annuler les modifications du commit choisi en créant un nouveau commit.
+
+git stash : Permet de sauvegarder temporairement le travail
+git stash pop : Permet de récupérer le travail
