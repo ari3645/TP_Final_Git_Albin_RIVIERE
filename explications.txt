@@ -1,0 +1,10 @@
+Explication des commandes :
+
+git log : Permet de voir la liste de tous les commits avec leurs hashs.
+          Il est ensuite possible d'utiliser les hashs pour visualiser les commits ou les comparer.
+
+git show : Permet de voir le contenu détaillé d'un commit spécifique, donc dans notre cas, les lignes qui ont été ajoutées.
+
+git diff : Permet de comparer les différences entre deux commits du projet.
+           Dans notre cas cela a permis de voir la différence entre le commit du premier chapitre et le commit du dernier chapitre.
+
